@@ -1,0 +1,9 @@
+= Bug Reproduce App
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: right
+:toclevels: 5
+
+== GET hello
+include::{snippets}/doc-test/hello/auto-section.adoc[]
